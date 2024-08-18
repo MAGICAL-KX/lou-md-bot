@@ -1,7 +1,7 @@
 #lou md bot*
 <p align="center">
   <a href="https://github.com/MAGICAL-KX">
-    <img alt="LOU-MD" height="400" src="https://pg">
+    <img alt="LOU-MD" height="400" src="https://pg"https://files.fm/u/2yw4dsdmbn>
   </a>
 </p>
 ***
@@ -23,7 +23,7 @@
 # thank you for using lou md bot
 
 ***
-# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/MAGICAL-KX/lou-md-bot&template=https://github.com/MAGICAL-KX/lou-md-bot) • Manjiro Sano md ON HEROKU_*
+# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/MAGICAL-KX/lou-md-bot&template=https://github.com/MAGICAL-KX/lou-md-bot) • Lou md ON HEROKU_*
 ***
 # *_FOLLOW • [WHATSAPP CHANNEL](https://whatsapp.com/channel/) •_*
 ***
