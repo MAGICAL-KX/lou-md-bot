@@ -6,10 +6,10 @@
 </p>
 ***
 <p align="center">
-<a href="https://github.com/MAGICAL-KX?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Cod3Uchiha?label=Followers&style=social"></a>
-<a href="https://github.com/MAGICAL-KX/lou-md-bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Cod3Uchiha/Manjiro-Sano-md?&style=social"></a>
-<a href="https://github.com/MAGICAL-KX/lou-mdbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Cod3Uchiha/Manjiro-Sano-md?style=social"></a>
-<a href="https://github.com/MAGICAL-KX/lou-md-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/Manjiro-Sano-md?label=Watching&style=social"></a>
+<a href="https://github.com/MAGICAL-KX?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MAGICAL-KX?label=Followers&style=social"></a>
+<a href="https://github.com/MAGICAL-KX/lou-md-bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/MAGICAL-KX/lou-md-bot?&style=social"></a>
+<a href="https://github.com/MAGICAL-KX/lou-mdbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MAGICAL-KX/lou-md-bot?style=social"></a>
+<a href="https://github.com/MAGICAL-KX/lou-md-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MAGICAL-KX/lou-md-bot?label=Watching&style=social"></a>
 
 ***
 
