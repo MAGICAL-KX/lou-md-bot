@@ -1,7 +1,7 @@
-lou md bot
+#lou md bot*
 <p align="center">
   <a href="https://github.com/MAGICAL-KX">
-    <img alt="LOU-MD" height="400" src="https://telegra.ph/file/2645fb9536dad7eda6aee.jpg">
+    <img alt="LOU-MD" height="400" src="https://pg">
   </a>
 </p>
 ***
@@ -28,7 +28,7 @@ lou md bot
 # *_FOLLOW • [WHATSAPP CHANNEL](https://whatsapp.com/channel/) •_*
 ***
 # *_DEVELOPER_*
-<a href="https://github.com/MAGICAL-KX"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="250" height="250" alt="Cod3Uchiha"/></a>
+<a href="https://github.com/MAGICAL-KX"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="250" height="250" alt="MAGICAL-KX"/></a>
 # _=> • [MAGICAL-KX](https://github.com/MAGICAL-KX) • <=_
 
 0 comments on commit 50a4ed0
