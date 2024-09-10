@@ -140,3 +140,4 @@
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
 - ***Regards [MAGICAL-KX](https://github.com/MAGICAL-KX)***
+- ibrahim tech
