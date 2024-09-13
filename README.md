@@ -76,7 +76,7 @@
 ***________________________________________________________________________________________________***
 
 
-**Get Your [SESSION ID](https://replit.com/session-id/) for LOU MD**
+**Get Your [SESSION ID](https://montana-tech-and-mr-ntando-ofc.onrender.com) for LOU MD**
 
 ***________________________________________________________________________________________________***
 
